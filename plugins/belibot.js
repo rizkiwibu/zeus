@@ -3,14 +3,14 @@ let handler = async (m, { conn }) => {
 	conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╭═══ *〘 SEWA 〙*
 ║ ┅ ๑————————————๑
 ║┊ ⌲ Sewa = _5k/grup (1 minggu)_
-║┊ ⌲ Sewa = _10k/grup (1 bulan)_
-║┊ ⌲ Sewa = _20k/grup (Permanen)_                                                                    ║┊ ⌲ Sewa = _45k/grup (12 bulan)_
+║┊ ⌲ Sewa = _15k/grup (1 bulan)_
+║┊ ⌲ Sewa = _35k/grup (Permanen)_                                                                    ║┊ ⌲ Sewa = _45k/grup (12 bulan)_
 ╰═ ┅ ═══════
 ╭═══ *〘 BELI PREMIUM 〙*
 ║ ┅ ๑————————————๑
 ║┊ ⌲ Premium = _5k/minggu_
 ║┊ ⌲ Premium = _20k/bulan_
-║┊ ⌲ Premium = _35k/permanen
+║┊ ⌲ Premium = _40k/permanen
 ╰═ ┅ ═══════
 
 ༅ _*KEUNTUNGAN SEWABOT*_
@@ -26,7 +26,7 @@ let handler = async (m, { conn }) => {
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y_
+_https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m_
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `.trim(), `ZeusBotz`, 'Payment', '#payment', 'Owner', '#owner', m)
