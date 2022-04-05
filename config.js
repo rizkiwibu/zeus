@@ -15,8 +15,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m', ''] // ganti jadi group lu
-global.owner = ['6283817161861','6283817161861'] // Put your number here //owner eval
-global.kontak = ['6283817161861','6283817161861'] //Ketika ada yang ngetik #owner
+global.owner = ['685215895009','685215895009'] // Put your number here //owner eval
+global.kontak = ['685215895009','685215895009'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6283817161861','601164215501','60166408295','601161197507','601156232697','601172962735','60182387590','60109211153','6283817161861'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -49,21 +49,21 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/rizkiwibu'
 kasihcaption = `Nih kak`
-namakontak1 = 'rizki Owner Bot'
-namakontak2 = 'irfan owner Bot'
+namakontak1 = 'Bruzk Owner Bot'
+namakontak2 = 'Bruzk owner Bot'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'iky Botz' // ganti aja
-global.author = 'rizkiwibu' // ganti aja
+global.packname = 'Bruzk Botz' // ganti aja
+global.author = 'Bruzk' // ganti aja
 
 //yyy
-bc = 'ikyBotz' //ikybotz Broadcast
-footer = '\n© ikyBotz'
-namabot = 'IKY BOTZ'
-namalu = 'rizki'
-watermark = 'rizkiwibu' //ganti aja
+bc = 'Bruzk' //ikybotz Broadcast
+footer = '\n© Bruzk'
+namabot = 'Bruzk BOTZ'
+namalu = 'Bruzk'
+watermark = 'Bruzk' //ganti aja
 
 // 
 wait = '_*Tunggu Sebentar...*_'
